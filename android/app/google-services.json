@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "696590958021",
+    "firebase_url": "https://spare-parts-shop-4f945.firebaseio.com",
+    "project_id": "spare-parts-shop-4f945",
+    "storage_bucket": "spare-parts-shop-4f945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696590958021:android:8b75d37b2a33a45f",
+        "android_client_info": {
+          "package_name": "com.spare_parts_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696590958021-h50bjhe7poq0a45aibkf0tbqa0u1ih54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcO9Xz0QKP8GrRtYwa5F3lwZO-KoGBlhs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

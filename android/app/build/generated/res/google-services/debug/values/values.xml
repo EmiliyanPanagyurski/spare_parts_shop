@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">696590958021-h50bjhe7poq0a45aibkf0tbqa0u1ih54.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://spare-parts-shop-4f945.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">696590958021</string>
+    <string name="google_api_key" translatable="false">AIzaSyBcO9Xz0QKP8GrRtYwa5F3lwZO-KoGBlhs</string>
+    <string name="google_app_id" translatable="false">1:696590958021:android:8b75d37b2a33a45f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBcO9Xz0QKP8GrRtYwa5F3lwZO-KoGBlhs</string>
+    <string name="google_storage_bucket" translatable="false">spare-parts-shop-4f945.appspot.com</string>
+    <string name="project_id" translatable="false">spare-parts-shop-4f945</string>
+</resources>

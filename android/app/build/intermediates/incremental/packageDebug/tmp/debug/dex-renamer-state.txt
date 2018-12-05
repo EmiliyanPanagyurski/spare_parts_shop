@@ -1,0 +1,4 @@
+#Tue Dec 04 22:44:59 EET 2018
+base.0=/home/user/projects-l/react-native-course/final_project/spare_parts_shop/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
